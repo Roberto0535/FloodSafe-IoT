@@ -1,0 +1,48 @@
+Recursos utilizados
+
+Para desarrollar nuestro proyecto FloodSafe buscamos información en diferentes páginas de documentación y en GitHub. Estos recursos nos ayudaron a conocer mejor el funcionamiento de la Raspberry Pi 4, las conexiones de los componentes, el sensor ultrasónico, las luces LED, el buzzer y las herramientas necesarias para programar el sistema.
+
+También consultamos información sobre Python, GPIO Zero y Flask para desarrollar el código y crear la página web que muestra las mediciones del nivel del agua.
+
+Proyectos relacionados
+
+Durante nuestra investigación encontramos algunos proyectos similares en GitHub, como Smart Water Tank, Simple Water Tank Monitor y Smart Water Tank Monitoring and Management System.
+
+Estos proyectos nos sirvieron como referencia para conocer otras maneras de medir el nivel del agua utilizando sensores y sistemas de monitoreo.
+
+En nuestro caso, desarrollamos FloodSafe utilizando una Raspberry Pi 4, un sensor ultrasónico JSN-SR04T, tres luces LED, un buzzer y una página web creada con Flask.
+
+Además de medir el nivel del agua, trabajamos en funciones para identificar la velocidad con la que sube y estimar cuánto tiempo podría faltar para llegar al nivel crítico.
+
+También realizamos nuestras propias conexiones, ajustes en el código y diferentes pruebas para adaptar el sistema a lo que queríamos lograr.
+
+Durante el desarrollo utilizamos ChatGPT como herramienta de apoyo para entender partes de la programación, revisar errores y buscar posibles soluciones. Las sugerencias fueron ajustadas de acuerdo con las necesidades de nuestro proyecto.
+
+Referencias:
+
+GitHub. (s. f.). About the repository README file. GitHub Docs. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+
+GPIO Zero. (s. f.). API - Input devices. GPIO Zero Documentation. https://gpiozero.readthedocs.io/en/stable/api_input.html
+
+GPIO Zero. (s. f.). API - Output devices. GPIO Zero Documentation. https://gpiozero.readthedocs.io/en/stable/api_output.html
+
+Pallets. (s. f.). Quickstart. Flask Documentation. https://flask.palletsprojects.com/en/stable/quickstart/
+
+Python Software Foundation. (s. f.). Python 3 documentation. https://docs.python.org/3/
+
+Raspberry Pi Ltd. (s. f.). Raspberry Pi computer hardware. Raspberry Pi Documentation. https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+
+Raspberry Pi Ltd. (2026, 1 de octubre). Price increases for 2GB Raspberry Pi 4 and Raspberry Pi 5. https://www.raspberrypi.com/news/price-increases-for-2gb-raspberry-pi-4-and-raspberry-pi-5/
+
+Saini, J. (s. f.). Smart water tank [Código fuente]. GitHub. https://github.com/jiteshsaini/Smart-Water-Tank
+
+SriShaaradhan. (s. f.). Simple water tank monitor [Código fuente]. GitHub. https://github.com/SriShaaradhan/simple-water-tank-monitor
+
+ThennakoonUID. (s. f.). Smart water tank monitoring and management system [Código fuente]. GitHub. https://github.com/ThennakoonUID/Smart-Water-Tank-Monitoring-and-Management-System-
+
+Aportación de nuestro grupo
+
+Aunque utilizamos diferentes recursos para orientarnos, FloodSafe fue adaptado a nuestra propia idea. 
+El grupo trabajó en la selección de los componentes, las conexiones de la Raspberry Pi, la programación del sistema de alertas y la visualización de las mediciones en la página web.
+También realizamos ajustes en el programa según los resultados que íbamos obteniendo durante las pruebas.
+Nuestro objetivo fue crear un prototipo que pudiera ayudar a prevenir desbordamientos de agua en cisternas o depósitos.
